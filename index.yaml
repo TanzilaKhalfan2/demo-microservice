@@ -331,4 +331,15 @@ entries:
     urls:
     - https://github.com/TanzilaKhalfan2/demo-bmw-microservice/releases/download/demo-bmw-microservice-59/demo-bmw-microservice-59.tgz
     version: "59"
-generated: "2024-10-26T20:57:15.652349829Z"
+  demo-microservice:
+  - apiVersion: v2
+    appVersion: "115"
+    created: "2024-10-26T22:15:18.420988766Z"
+    description: A Helm chart for Kubernetes
+    digest: 79da3a91a52553f628ba86f411f69b9d1908eee68828b5a79712f76dd6506520
+    name: demo-microservice
+    type: application
+    urls:
+    - https://github.com/TanzilaKhalfan2/demo-microservice/releases/download/demo-microservice-115/demo-microservice-115.tgz
+    version: "115"
+generated: "2024-10-26T22:15:18.421075228Z"
