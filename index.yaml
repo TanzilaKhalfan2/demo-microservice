@@ -333,6 +333,16 @@ entries:
     version: "59"
   demo-microservice:
   - apiVersion: v2
+    appVersion: "118"
+    created: "2024-10-27T21:25:22.37383057Z"
+    description: A Helm chart for Kubernetes
+    digest: 864ad8996ea62eb046002e740472788bda912f7bce96ad95f2a5e55b114e0bf6
+    name: demo-microservice
+    type: application
+    urls:
+    - https://github.com/TanzilaKhalfan2/demo-microservice/releases/download/demo-microservice-118/demo-microservice-118.tgz
+    version: "118"
+  - apiVersion: v2
     appVersion: "117"
     created: "2024-10-27T20:05:20.50343136Z"
     description: A Helm chart for Kubernetes
@@ -352,4 +362,4 @@ entries:
     urls:
     - https://github.com/TanzilaKhalfan2/demo-microservice/releases/download/demo-microservice-115/demo-microservice-115.tgz
     version: "115"
-generated: "2024-10-27T20:05:20.503501952Z"
+generated: "2024-10-27T21:25:22.373917302Z"
